@@ -3,7 +3,7 @@
 
 ## 1. Project Overview
 
-This project implements a Random Forest Classifier to predict the quality of red wine based on various chemical properties. The dataset includes features such as acidity, residual sugar, pH, alcohol content, and more. The goal is to predict the wine quality on a scale (e.g., from 0 to 10), which has been simplified into a classification problem (e.g., "low," "medium," "high" quality).
+This project implements a Random Forest Classifier to predict the quality of red wine based on various chemical properties. The dataset includes features such as acidity, residual sugar, pH, alcohol content, and more. The goal is to predict the wine quality on a scale (e.g., from 3 to 8), which has been simplified into a classification problem (e.g., "low" and "high" quality).
 
 
 ## 2. Dataset Source
@@ -68,10 +68,10 @@ Open the wine_quality.ipynb file and follow the step-by-step instructions provid
 ## 7. Results in Test
 | Metric    |  Value |
 |-----------|--------|
-| Accuracy  |  80%   |
-| Precision |  81%   |
-| Recall    |  71%   |
-| F1 Score  |  73%   |
+| Accuracy  |  93%   |
+| Precision |  88%   |
+| Recall    |  77%   |
+| F1 Score  |  82%   |
 
 ## 8. Contributing
 
